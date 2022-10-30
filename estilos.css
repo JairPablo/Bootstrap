@@ -1,0 +1,76 @@
+*{
+    font-family: "century gothic";
+    font-size: 22px;
+}
+
+.imgEncabezado{
+    height: 200px;
+    width: 1200px;
+}
+
+.fondo{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(./imagenfondo.jpg);
+    background-size: cover;
+    height: 210vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: antiquewhite;
+}
+
+.txtcasa{
+    display: inline;
+    padding-top: 5%;
+    
+}
+.imgcasa{
+    width: 250px;
+    height: 250px;
+}
+.casa{
+    display: flex;
+    flex-wrap: wrap;
+}
+.container{
+    text-align: center;
+}
+
+
+.imgcar{
+    width: 760px;
+    height: 600px;
+}
+
+.personajes{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.tarj{
+    display: inline-block;
+    margin: 10px;
+    background-color: rgb(53, 53, 53, 0.3);
+    color:antiquewhite;
+    font-weight: 700;
+}
+
+.imgtarj{
+    width: auto;
+    height: auto;
+    max-width: 250px;
+    max-height: 2500px;
+   
+}
+
+footer {
+    display: block;
+    margin-top: 60px;
+}
+
+#firma {
+    text-align: end;
+    padding: 25px;
+}
