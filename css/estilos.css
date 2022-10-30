@@ -1,5 +1,5 @@
 *{
-    font-family: "century gothic";
+    font-family: 'Nanum Myeongjo', serif;
     font-size: 22px;
 }
 
@@ -73,4 +73,7 @@ footer {
 #firma {
     text-align: end;
     padding: 25px;
+}
+h1{
+    font-size: 500%;
 }
