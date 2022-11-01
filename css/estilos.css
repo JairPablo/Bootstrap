@@ -65,6 +65,7 @@ footer {
     text-align: end;
     padding: 25px;
 }
-h1{
+#titulo{
     font-size: 350%;
+    margin-top: 100px;
 }
