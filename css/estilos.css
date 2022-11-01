@@ -40,15 +40,6 @@
     height: 600px;
 }
 
-.personajes{
-    position: relative;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-   
-}
-
 .tarj{
     display: inline-block;
     margin: 10px;
@@ -75,5 +66,5 @@ footer {
     padding: 25px;
 }
 h1{
-    font-size: 500%;
+    font-size: 350%;
 }
